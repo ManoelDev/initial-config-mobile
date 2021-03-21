@@ -1,5 +1,5 @@
 {
-  "lang": "en-US",
+  "lang": "pt-BR",
   "types": {
       "feat": "Novos recursos que os usuários podem perceber",
       "build": "Mudanças que afetam o sistema de compilação ou dependências externas (exemplos de escopo: gulp, broccoli, npm)",
