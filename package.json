@@ -23,7 +23,8 @@
   },
   "lint-staged": {
     "*.tsx": [
-      "eslint 'src/**' --fix"
+      "eslint 'src/**' --fix",
+      "git add"
     ]
   },
   "devDependencies": {
